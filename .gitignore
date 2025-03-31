@@ -30,3 +30,5 @@ logs/
 *.csv
 notebooks/data
 notebooks/lurz2020
+Dockerfile
+docker-compose.yml
